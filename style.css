@@ -1,0 +1,24 @@
+ #title{
+    background-color: black;
+    text-align: center;
+    color: white;
+ }
+ #miso{
+    height: 200px;
+    width: 200px;
+ }
+ #shoyu{
+    height: 200px;
+    width: 200px;
+ }
+ #tonkotsu{
+    height: 200px;
+    width: 200px;
+ }
+ .ramens{
+    display: flex;
+    justify-content: center;
+ }
+ .new-ramen{
+    text-align: center;
+ }
