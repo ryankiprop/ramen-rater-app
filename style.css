@@ -1,24 +1,30 @@
- #title{
-    background-color: black;
-    text-align: center;
-    color: white;
- }
- #miso{
-    height: 200px;
-    width: 200px;
- }
- #shoyu{
-    height: 200px;
-    width: 200px;
- }
- #tonkotsu{
-    height: 200px;
-    width: 200px;
- }
- .ramens{
-    display: flex;
-    justify-content: center;
- }
- .new-ramen{
-    text-align: center;
- }
+#heading{
+   color: white;
+   background: black;
+   text-align: center;
+}
+#rating_form{
+   text-align: center;
+}
+#ramen_details{
+   text-align: center;
+}
+#submit{
+   height: 40px;
+   width:410px;
+   background-color: black;
+   color: white;
+}
+.input{
+   width: 400px;
+   height: 40px;
+}
+#head{
+   background-color: black;
+   text-align: center;
+   color: white;
+}
+#form{
+   display: flex;
+   justify-content: center;
+}
